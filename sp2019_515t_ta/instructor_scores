@@ -1,0 +1,75 @@
+4/16/2019 6:23:17	Shali Jiang	4/15 #1: Sudarshan Rajagopal, Zayid Oyelami	5: perfectly appropriate	4	4		4.333333333
+4/16/2019 6:30:55	Shali Jiang	4/15 #2: Daniel Teich, Ria Das	5: perfectly appropriate	4	4	slides design: too much text	4.333333333
+4/16/2019 6:39:19	Shali Jiang	4/15 #3: Chang Liu	5: perfectly appropriate	5: very thorough	4		4.666666667
+4/16/2019 6:47:25	Shali	4/15 #4: Yang Jin	5: perfectly appropriate	4	4		4.333333333
+4/16/2019 6:58:28	Shali	4/15 #5: Ben Choi	5: perfectly appropriate	5: very thorough	5: very effective	is it possible to add the type of player as another feature and train a single classifier?	5
+4/16/2019 7:15:03	Shali	4/15 #6: Ting Liu	4	4	4	car classification, get 100% accuracy, could be an easy task or there is some data bias 	4
+4/16/2019 7:26:04	Shali 	4/15 #7: Sayali Patil	5: perfectly appropriate	4	4		4.333333333
+4/18/2019 6:23:00	Shali	4/17 #1: Paul Kwon	5: perfectly appropriate	4	5: very effective		4.666666667
+4/18/2019 6:34:57	Shali	4/17 #2: Tyler Brandt	5: perfectly appropriate	4	4	Basketball terminologies need to be explained	4.333333333
+4/18/2019 6:48:17	Shali	4/17 #3: Rui Yang	5: perfectly appropriate	3	4	just introduced approximated inference algorithms for Bayesian NN, no experiments yet	4
+4/18/2019 6:59:33	Shali	4/17 #4: Wenzhen Zhu	5: perfectly appropriate	4	4		4.333333333
+4/18/2019 7:10:32	Shali	4/17 #6: Alan Zhang	5: perfectly appropriate	4	4		4.333333333
+4/18/2019 7:21:06	Shali	4/17 #7: Sixie Yu	5: perfectly appropriate	4	5: very effective		4.666666667
+4/18/2019 7:30:50	Shali	4/17 #8: John Kirchenbauer, William Altschul	5: perfectly appropriate	4	4	better be slower in the beginning to clearly introduce the problem and your goals	4.333333333
+4/23/2019 6:20:40	Shali	4/22 #1: Jonathan Li, Karthik Garimella, Matt Gleeson	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/23/2019 6:32:26	Shali	4/22 #2: Jia Zeng	5: perfectly appropriate	4	4		4.333333333
+4/23/2019 6:42:31	Shali	4/22 #4: Charlie Chen	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/23/2019 6:54:56	Shali	4/22 #5: Benjamin Bush	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/23/2019 7:02:56	Shali 	4/22 #6: Shayan Monadjemi, Kathryn Sarullo	5: perfectly appropriate	4	4		4.333333333
+4/23/2019 7:10:39	Shali	4/22 #7: Shuo Wu	5: perfectly appropriate	3	3	plot axis label too small	3.666666667
+4/23/2019 7:23:00	Shali 	4/22 #8: Jason Zhu, Feiran Jia	5: perfectly appropriate	3	3		3.666666667
+4/23/2019 7:32:13	Shali	4/22 #9: Gennaro Olivo, Daniel Pollak, Thomas Kelly, Kerry Li	5: perfectly appropriate	4	4		4.333333333
+4/23/2019 7:45:48	Shali	4/22 #10: Gan Xu	5: perfectly appropriate	4	4		4.333333333
+4/16/2019 6:48:26	Sirui Li	4/15 #1: Sudarshan Rajagopal, Zayid Oyelami	5: perfectly appropriate	4	5: very effective	The presentation gives a very detailed explanation of the problem setup and the dataset that they used. The experiment is a comparison between Bayesian/frequentist linear regression. A downside is that they didn't spend very much time talking about the experimental result, but is understandable considering that they are the first group presenting.	4.666666667
+4/16/2019 6:51:19	Sirui Li	4/15 #2: Daniel Teich, Ria Das	5: perfectly appropriate	5: very thorough	5: very effective	They showed a pretty detailed comparison between BART and conventional random forest. I think the presentation is very good overall. The comparison is mostly about the MSE difference, so more Bayesian methods for the final report would be appreciated.	5
+4/16/2019 7:21:22	Sirui Li	4/15 #6: Ting Liu	4	4	4	The presenter claims that he claims 100% accuracy on image classification of 4 types of cars if he takes the CNN feature and adds a GP layer at the end. Although the result seems very good, I feel like (1) the work/effort he put into this project is not very substantial, as all he needs to do is to train a GP classifier for the feature extracted by CNN, and (2) he claims that there's nothing to improve as there is already 100% accuracy, but I feel like it is due to the 4 type of class labels he chose are too easy to separate. I hope he can choose to more and harder labels for the classification to see if he can get improvement by replacing the softmax CNN classification layer with a GP.	4
+4/16/2019 7:23:12	Sirui Li	4/15 #5: Ben Choi	5: perfectly appropriate	5: very thorough	5: very effective	I think the presentation (about  FIFA 19 prediction) is very good overall. Very good pace of the presentation with a detailed introduction to the problem setup, dataset, and method he used. The result also looks pretty good.	5
+4/16/2019 7:24:57	Sirui Li	4/15 #4: Yang Jin	5: perfectly appropriate	4	4	One suggestion is that it would be much better if he speaks up a bit/becomes more energetic. He uses GP regression to do the prediction of New York City Tax Fare. One thing I'm not sure about is that the Manhattan distance feature he adds to the classification makes the problem to easy (since there seems to be a clear linear trend between distance and tax fare). However, it seems that he did a reasonable amount of work overall for his project.	4.333333333
+4/16/2019 7:29:55	Sirui Li	4/15 #3: Chang Liu	5: perfectly appropriate	5: very thorough	4	The presenter talked about using a Gaussian Naive Bayes model to predict Football scores. I think he did a reasonable amount of work for his project, although I think he needs a bit more work to explore the Naive Bayes algorithm he used (for example, see if it can give him uncertainty instead of just point estimation)	4.666666667
+4/16/2019 8:31:42	Gustavo Malkomes	4/15 #1: Sudarshan Rajagopal, Zayid Oyelami	5: perfectly appropriate	5: very thorough	4	 - which metric are you using?  - you should explain the methods	4.666666667
+4/16/2019 8:32:52	Gustavo Malkomes	4/15 #2: Daniel Teich, Ria Das	5: perfectly appropriate	3	4	- you should investigate your results to understand the predictions, rather than just trying to tweak the parameters. 	4
+4/16/2019 8:33:56	Gustavo Malkomes	4/15 #3: Chang Liu	5: perfectly appropriate	4	3	- try to be more precise about how you framed the problem	4
+4/16/2019 8:36:10	Gustavo Malkomes	4/15 #4: Yang Jin	4	4	2	you have a very interesting project, you could have spend more time preparing the presentation. 	3.333333333
+4/16/2019 8:37:14	Gustavo Malkomes	4/15 #5: Ben Choi	5: perfectly appropriate	5: very thorough	5: very effective	How did you compare the kernels? Did they perform worse due to complexity? 	5
+4/16/2019 8:38:30	Gustavo Malkomes	4/15 #6: Ting Liu	3	3	3	Either there is problem with your setup or this problem is too simple. 	3
+4/16/2019 8:42:19	Gustavo Malkomes	4/15 #7: Sayali Patil	5: perfectly appropriate	4	3	You could make you presentation a little bit more clean by removing some of the text, and focusing on what is really important. In the presentation of the results, it's important that everybody can understand them and potentially take their own conclusion (which hopefully is the same as yours). Always remember to have labels, titles and all the relevant information on charts and pictures such that the viewer can understand it by itself (if she/he has the relevant background)	4
+4/24/2019 2:41:14	Gustavo Malkomes	4/17 #1: Paul Kwon	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:43:08	Gustavo Malkomes	4/17 #2: Tyler Brandt	5: perfectly appropriate	5: very thorough	5: very effective	this might be relevant for your project: https://en.wikipedia.org/wiki/Jaccard_index	5
+4/24/2019 2:43:37	Gustavo Malkomes	4/17 #3: Rui Yang	3	2	3		2.666666667
+4/24/2019 2:44:07	Gustavo Malkomes	4/17 #4: Wenzhen Zhu	4	4	3		3.666666667
+4/24/2019 2:44:41	Gustavo Malkomes	4/17 #6: Alan Zhang	4	4	3		3.666666667
+4/24/2019 2:45:03	Gustavo Malkomes	4/17 #7: Sixie Yu	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:45:29	Gustavo Malkomes	4/17 #8: John Kirchenbauer, William Altschul	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:45:57	Gustavo Malkomes	4/22 #1: Jonathan Li, Karthik Garimella, Matt Gleeson	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:46:26	Gustavo Malkomes	4/22 #2: Jia Zeng	5: perfectly appropriate	3	3		3.666666667
+4/24/2019 2:46:52	Gustavo Malkomes	4/22 #4: Charlie Chen	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:47:36	Gustavo Malkomes	4/22 #5: Benjamin Bush	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/24/2019 2:48:01	Gustavo Malkomes	4/22 #6: Shayan Monadjemi, Kathryn Sarullo	4	4	4		4
+4/24/2019 2:48:32	Gustavo Malkomes	4/22 #7: Shuo Wu	4	2	3		3
+4/24/2019 2:49:26	Gustavo Malkomes	4/22 #8: Jason Zhu, Feiran Jia	5: perfectly appropriate	3	3	what a good result is? seems that you kept talking about problems that occurred but never really show the results during the presentation (only at the end). It would be more interesting if you explain your reasoning throughout of the presentation	3.666666667
+4/24/2019 2:49:50	Gustavo Malkomes	4/22 #9: Gennaro Olivo, Daniel Pollak, Thomas Kelly, Kerry Li	5: perfectly appropriate	4	4		4.333333333
+4/24/2019 2:50:11	Gustavo Malkomes	4/22 #10: Gan Xu	4	3	2		3
+4/24/2019 2:50:35	Gustavo Malkomes	4/22 #11: Han Liu	5: perfectly appropriate	4	4		4.333333333
+4/23/2019 6:22:03	Roman	4/22 #1: Jonathan Li, Karthik Garimella, Matt Gleeson	5: perfectly appropriate	5: very thorough	5: very effective	please break Kaggle, that would be amazing	5
+4/23/2019 6:31:51	Roman	4/22 #2: Jia Zeng	3	3	4		3.333333333
+4/23/2019 6:43:04	Roman	4/22 #4: Charlie Chen	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/23/2019 6:46:44	Roman	4/22 #5: Benjamin Bush	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/23/2019 7:01:39	Roman	4/22 #6: Shayan Monadjemi, Kathryn Sarullo	5: perfectly appropriate	4	4		4.333333333
+4/23/2019 7:11:01	Roman	4/22 #7: Shuo Wu	5: perfectly appropriate	2	3		3.333333333
+4/23/2019 7:22:58	Roman	4/22 #8: Jason Zhu, Feiran Jia	4	3	2		3
+4/23/2019 7:39:55	Roman	4/22 #9: Gennaro Olivo, Daniel Pollak, Thomas Kelly, Kerry Li	5: perfectly appropriate	5: very thorough	4		4.666666667
+4/23/2019 7:48:16	Roman	4/22 #10: Gan Xu	2	1: not at all thorough	3		2
+4/23/2019 7:56:36	Roman	4/22 #11: Han Liu	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/25/2019 6:13:07	Roman	4/24 #1: Zehao Dong	5: perfectly appropriate	5: very thorough	3		4.333333333
+4/25/2019 6:23:29	Roman	4/24 #2: Tianwei Zhou	5: perfectly appropriate	4	4		4.333333333
+4/25/2019 6:35:18	Roman	4/24 #3: Nathan Mester	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/25/2019 6:47:42	Roman	4/24 #4: Zhibo Liang	5: perfectly appropriate	4	5: very effective		4.666666667
+4/25/2019 6:54:00	Roman	4/24 #5: Haipeng Dai	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/25/2019 7:04:01	Roman	4/24 #7: Shitao Chen	3	2	3		2.666666667
+4/25/2019 7:16:34	Roman	4/24 #8: Joshua Landman, Amanda Kube, Adam Kern	5: perfectly appropriate	5: very thorough	4		4.666666667
+4/25/2019 7:28:03	Roman	4/24 #9: Jonathan Park, Kevin Kim	5: perfectly appropriate	4	4		4.333333333
+4/25/2019 7:44:02	Roman	4/24 #10: Kunpeng Xie	5: perfectly appropriate	5: very thorough	4		4.666666667
+4/25/2019 7:53:14	Roman	4/24 #11: Finn Voichick, Yana Malysheva	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/27/2019 4:09:48	Roman	4/24 #12: Ryan Johnson	5: perfectly appropriate	5: very thorough	5: very effective		5
+4/28/2019 2:21:42	Roman	4/17 #5: Rohan Khopkar	5: perfectly appropriate	5: very thorough	5: very effective		5
